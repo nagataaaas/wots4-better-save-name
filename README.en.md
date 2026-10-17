@@ -1,6 +1,6 @@
 # Better Save Name
 
-[日本語](README.md)
+[日本語](README.md) | [Changelog](CHANGELOG.en.md)
 
 > [!NOTE]
 > This Mod is for the [Steam version of Way of the Samurai 4](https://store.steampowered.com/app/312780/Way_of_the_Samurai_4/) only.
